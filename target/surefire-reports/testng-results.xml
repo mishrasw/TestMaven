@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="35622" started-at="2020-05-07T23:46:12 NZST" finished-at="2020-05-07T23:46:47 NZST">
+  <suite name="Suite" duration-ms="32913" started-at="2020-05-08T22:46:27 NZST" finished-at="2020-05-08T22:47:00 NZST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="35622" started-at="2020-05-07T23:46:12 NZST" finished-at="2020-05-07T23:46:47 NZST">
+    <test name="Test" duration-ms="32913" started-at="2020-05-08T22:46:27 NZST" finished-at="2020-05-08T22:47:00 NZST">
       <class name="mavenTraining.westpacTest">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:mavenTraining.westpacTest@53b32d7]" name="beforeTest" is-config="true" duration-ms="14890" started-at="2020-05-07T23:46:12 NZST" finished-at="2020-05-07T23:46:27 NZST">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:mavenTraining.westpacTest@53b32d7]" name="beforeTest" is-config="true" duration-ms="12972" started-at="2020-05-08T22:46:27 NZST" finished-at="2020-05-08T22:46:40 NZST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="westpacTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:mavenTraining.westpacTest@53b32d7]" name="westpacTest" duration-ms="9893" started-at="2020-05-07T23:46:27 NZST" data-provider="dataSheet" finished-at="2020-05-07T23:46:37 NZST">
+        <test-method status="PASS" signature="westpacTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:mavenTraining.westpacTest@53b32d7]" name="westpacTest" duration-ms="10196" started-at="2020-05-08T22:46:41 NZST" data-provider="dataSheet" finished-at="2020-05-08T22:46:51 NZST">
           <params>
             <param index="0">
               <value>
@@ -32,7 +32,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- westpacTest -->
-        <test-method status="PASS" signature="westpacTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:mavenTraining.westpacTest@53b32d7]" name="westpacTest" duration-ms="10065" started-at="2020-05-07T23:46:37 NZST" data-provider="dataSheet" finished-at="2020-05-07T23:46:47 NZST">
+        <test-method status="PASS" signature="westpacTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:mavenTraining.westpacTest@53b32d7]" name="westpacTest" duration-ms="9047" started-at="2020-05-08T22:46:51 NZST" data-provider="dataSheet" finished-at="2020-05-08T22:47:00 NZST">
           <params>
             <param index="0">
               <value>
@@ -53,7 +53,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- westpacTest -->
-        <test-method status="PASS" signature="AfterTest()[pri:0, instance:mavenTraining.westpacTest@53b32d7]" name="AfterTest" is-config="true" duration-ms="187" started-at="2020-05-07T23:46:47 NZST" finished-at="2020-05-07T23:46:47 NZST">
+        <test-method status="PASS" signature="AfterTest()[pri:0, instance:mavenTraining.westpacTest@53b32d7]" name="AfterTest" is-config="true" duration-ms="176" started-at="2020-05-08T22:47:00 NZST" finished-at="2020-05-08T22:47:00 NZST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterTest -->
